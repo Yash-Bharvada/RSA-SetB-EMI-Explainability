@@ -48,3 +48,9 @@ Python 3 with pandas, NumPy, scikit-learn, Matplotlib, SHAP, LIME, and IPython. 
 ## Responsible-use note
 
 This is an academic explainability exercise, **not** a production lending system. Model explanations are associations with the model output, not proven causal reasons. Sensitive features must be reviewed before use in real lending decisions.
+
+## Run the Notebook on Kaggle
+
+**Kaggle notebook:** [Practical — EMI Loan Explainability](https://www.kaggle.com/code/bharvadayash/practical)
+
+Open the linked Kaggle notebook to inspect or run the practical. The repository contains supporting Python source code, while the executable notebook is hosted on Kaggle.
