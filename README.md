@@ -6,7 +6,7 @@ An explainable machine-learning workflow for instant EMI lending decisions in an
 
 ## Kaggle notebook
 
-**[`RSA_SetB_EMI_Explainability_Kaggle.ipynb`](RSA_SetB_EMI_Explainability_Kaggle.ipynb)** is the full, importable practical. It covers:
+**[`RSA_SetB_EMI_Explainability_Kaggle.ipynb`](practical.ipynb)** is the full, importable practical. It covers:
 
 1. Load and validate German Credit data, encode categories with `OrdinalEncoder`, and make an 80:20 stratified split with `random_state=42`.
 2. Train `RandomForestClassifier(n_estimators=200, max_depth=8, random_state=42)`, and calculate accuracy and ROC-AUC.
